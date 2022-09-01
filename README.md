@@ -15,10 +15,11 @@
              alt="GitHub license">
 </a>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Frebootcat%2FQ2lX64ANBd.png?alt=media&token=e1234703-1441-4e99-af76-85f4fb19a390" width="800" title="data records of cherry blossom and ginkgo leaf coloration">
-
 
 This repository accompanies the manuscript **"Cherry blossom and ginkgo leaf coloration phenology dataset of China from 2009 to 2019 extracted from big data"** by Shenghong Wang, Haolong Liu, Xinyue Qin, Junhu Dai and **Jun Liu** *. All necessary Python scripts and data to reproduce included results are provided.  
+
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Frebootcat%2FQ2lX64ANBd.png?alt=media&token=e1234703-1441-4e99-af76-85f4fb19a390" width="400" title="data records of cherry blossom and ginkgo leaf coloration">
+
    		  
 ## Abstract
 Ground-based phenological observation data is the most accurate phenological monitoring data currently available. Making effective use of available information on social media to retrieve phenological data is of considerable value in alleviating the lack of phenological data in regions with missing observation sites. In this study, a logistic curve fitting method was developed to extract phenological data on specific species from social media data. After verifying the relationship between the site observation data and the temperature, timing data for two typical phenological phenomena in China, namely cherry blossom flowering in spring and ginkgo leaf coloration in autumn were reconstructed and published. The data availability is from 2010 to 2019 with 176 cities and 2009 to 2018 with 155 cities, respectively. This dataset is an effective supplement for existing phenological data, and this method also provides a reference for obtaining phenological data for specific species.  
