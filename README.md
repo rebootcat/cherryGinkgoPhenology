@@ -1,4 +1,22 @@
 # **cherryGinkgoPhenology**
+<a href="https://github.com/rebootcat/cherryGinkgoPhenology">
+    <img src="https://img.shields.io/github/stars/rebootcat/cherryGinkgoPhenology.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a>
+  <a href="https://github.com/rebootcat/cherryGinkgoPhenology/issues">
+        <img src="https://img.shields.io/github/issues/rebootcat/cherryGinkgoPhenology.svg"
+             alt="GitHub issues">
+  </a>
+  <a href="https://github.com/rebootcat/cherryGinkgoPhenology/">
+        <img src="https://img.shields.io/github/last-commit/rebootcat/cherryGinkgoPhenology.svg">
+  </a>
+  <a href="https://github.com/rebootcat/cherryGinkgoPhenology/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/rebootcat/cherryGinkgoPhenology.svg"
+             alt="GitHub license">
+</a>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Frebootcat%2FQ2lX64ANBd.png?alt=media&token=e1234703-1441-4e99-af76-85f4fb19a390" width="800" title="data records of cherry blossom and ginkgo leaf coloration">
+
 
 This repository accompanies the manuscript **"Cherry blossom and ginkgo leaf coloration phenology dataset of China from 2009 to 2019 extracted from big data"** by Shenghong Wang, Haolong Liu, Xinyue Qin, Junhu Dai and **Jun Liu** *. All necessary Python scripts and data to reproduce included results are provided.  
    		  

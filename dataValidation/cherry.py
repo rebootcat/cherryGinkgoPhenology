@@ -92,7 +92,6 @@ class Cherry:
             record["v_ave_tem_m2"] = []
             record["v_ave_tem_m3"] = []
 
-            # 逐年计算变量
             for year in range(2010, 2020):
                 nameDOY = "yd%s" % year
                 record["florescence"].append(record[nameDOY])
