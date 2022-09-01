@@ -41,7 +41,7 @@ Jun Liu -  liujun_igsnrr@126.com
 
 ## Data access
 - **Weibo data**: The Weibo data were obtained from Sina Weibo(https://open.weibo.com). Detailed data is not allowed for open access according to data use agreement. So we can not provide raw data here.
-- **Observation data**: The phenological data used for data validation were obtained from the “Chinese Phenological Observation Network” (http://www.cpon.ac.cn).
+- **Observation data**: The phenological data used for data validation were obtained from the "Chinese Phenological Observation Network" (http://www.cpon.ac.cn).
 - **Meteorological data**: The meteorological data were obtained from the "China surface Climate Data Log dataset (V3.0)" provided by the National Meteorological Science Data Center (http://data.cma.cn/).
 
 
