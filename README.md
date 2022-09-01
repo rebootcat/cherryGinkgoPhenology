@@ -18,7 +18,7 @@
 
 This repository accompanies the manuscript **"Cherry blossom and ginkgo leaf coloration phenology dataset of China from 2009 to 2019 extracted from big data"** by Shenghong Wang, Haolong Liu, Xinyue Qin, Junhu Dai and **Jun Liu** *. All necessary Python scripts and data to reproduce included results are provided.  
 
-<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Frebootcat%2FQ2lX64ANBd.png?alt=media&token=e1234703-1441-4e99-af76-85f4fb19a390" width="400" title="data records of cherry blossom and ginkgo leaf coloration">
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Frebootcat%2FQ2lX64ANBd.png?alt=media&token=e1234703-1441-4e99-af76-85f4fb19a390" width="600" title="data records of cherry blossom and ginkgo leaf coloration">
 
    		  
 ## Abstract
