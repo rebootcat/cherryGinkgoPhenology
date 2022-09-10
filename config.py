@@ -18,8 +18,8 @@ cursor = connect.cursor()
 mongo = pymongo.MongoClient("anonymous")
 scientificData = mongo["scientificData"]
 
-cherry = scientificData["cherryCorrection"]
+cherry = scientificData["cherry"]
 cherryVariable = scientificData["cherryVariable"]
 
-ginkgo = scientificData["ginkgoCorrection"]
+ginkgo = scientificData["ginkgo"]
 ginkgoVariable = scientificData["ginkgoVariable"]
