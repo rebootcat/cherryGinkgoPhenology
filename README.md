@@ -41,7 +41,7 @@ Jun Liu -  liujun_igsnrr@126.com
 - The "dataValidation" folder contains Python scripts for data validation using temperature data.
 
 ## Data access
-- **Weibo data**: The Weibo data were obtained from the API (application programming interface) provided by the Sina Weibo(http://openapi.sc.weibo.com). According to the term "4.2 Party B's rights and obligations" of  contract, "party B shall not allow a third party to use commercial data obtained through this agreement by any means such as gift, sale, authorization, etc." So we are prohibited to provide any detail of the raw data to open access here. For repeat this work, please contact businessapi@staff.weibo.com for support. The api document uesd for this work is available at http://openapi.sc.weibo.com/api/detail?t=search/statuses/limited. The Business Data Service Package Tariffs as of December 2020 are provided below.  
+- **Weibo data**: The Weibo data were obtained from the API (application programming interface) provided by the Sina Weibo(http://openapi.sc.weibo.com). According to the term "4.2 Party B's rights and obligations" of  contract, "**Party B shall not allow a third party to use commercial data obtained through this agreement by any means such as gift, sale, authorization, etc.**" Thus we are prohibited to provide any detail of the raw data to open access here. To repeat this work, please contact businessapi@staff.weibo.com for data support. The api document used for this work is available at http://openapi.sc.weibo.com/api/detail?t=search/statuses/limited. The Business Data Service Package Plans as of December 2020 are provided below.  
 
 |plan|quota of content data|service life|Package usage fee(CNY)|Off package usage fee(CNY)|  
 | ---- | ---- | ---- | ---- | ---- |  
