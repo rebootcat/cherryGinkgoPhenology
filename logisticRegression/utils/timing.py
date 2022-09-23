@@ -43,6 +43,8 @@ def calc_timing(x_list, y_list):
     y_left = np.array(y_list[:x_index + 1])
     x_right = np.array(x_list[x_index:])
     y_right = np.array(y_list[x_index:])
+    tl = curve_fit(function_l, x_left, y_left)
+    tr = curve_fit(function_l, x_right, y_right)
     return tl, tr
 
 
