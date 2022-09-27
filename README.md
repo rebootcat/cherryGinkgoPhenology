@@ -41,7 +41,7 @@ Jun Liu -  liujun_igsnrr@126.com
 - The "dataValidation" folder contains Python scripts for data validation using temperature data.
 
 ## Data access
-- **Weibo data**: The Weibo data can be obtained from http://openapi.sc.weibo.com.  
+- **Weibo data**: Everyone can only obtain Weibo data by applying to Sina Weibo for commercial API (application programming interface) according to data usage agreement. We are prohibited to provide any detail of the raw data (including URLs) to open access according to the term "4.2 Party B's rights and obligations" of contract. To repeat this work, please visit http://openapi.sc.weibo.com or contact businessapi@staff.weibo.com for data support. The search settings are detailed in "Table 1 Search settings and results".
 - **Observation data**: The phenological data is available at http://www.cpon.ac.cn.  
 - **Meteorological data**: The meteorological data can be obtained from http://data.cma.cn/.  
 
